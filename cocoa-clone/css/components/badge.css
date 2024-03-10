@@ -1,0 +1,16 @@
+.badge {
+    background-color: tomato;
+    width: 30px;
+    height: 30px;
+  
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  
+  .bage-cog__position {
+    left: 25px;
+    bottom: 20px;
+  }
